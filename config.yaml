@@ -1,0 +1,6 @@
+name: Hello world
+version: "1.0.0"
+slug: hello-world
+description: Hello world from a Node app
+arch:
+  - amd64
